@@ -1,0 +1,22 @@
+{
+  "name": "travistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsush/TravisTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsush/TravisTest/issues"
+  },
+  "homepage": "https://github.com/iamsush/TravisTest#readme",
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
