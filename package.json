@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/iamsush/TravisTest#readme",
   "devDependencies": {
-    "jshint": "^2.10.2"
+    "jshint": "^2.11.1"
   }
 }
